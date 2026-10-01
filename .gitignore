@@ -1,0 +1,7 @@
+# CMake build output (build/, build-debug/, build-rp2040/, ...)
+build*/
+
+# Local Claude Code settings
+.claude/
+
+!.vscode/*
