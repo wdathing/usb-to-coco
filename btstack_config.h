@@ -1,3 +1,6 @@
+// Copyright (c) 2026 William Athing
+// SPDX-License-Identifier: MIT
+
 #pragma once
 
 // BTstack config for Bluetooth HID Host on Pico 2 W (CYW43439): classic

@@ -1,3 +1,6 @@
+// Copyright (c) 2026 William Athing
+// SPDX-License-Identifier: MIT
+
 #include <inttypes.h>
 #include <stdio.h>
 #include <string.h>

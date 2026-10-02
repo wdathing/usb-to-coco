@@ -1,3 +1,6 @@
+// Copyright (c) 2026 William Athing
+// SPDX-License-Identifier: MIT
+
 #include "matrix.h"
 
 #include "hardware/gpio.h"

@@ -1,3 +1,6 @@
+// Copyright (c) 2026 William Athing
+// SPDX-License-Identifier: MIT
+
 #include "tusb.h"
 
 #include "keymap.h"

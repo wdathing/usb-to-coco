@@ -73,3 +73,19 @@ cmake -B build-debug -G Ninja -DDEBUG_KEY_LOG=ON
 
 This build leaves the matrix pins alone and logs each decoded key (row/col) plus
 Bluetooth status over UART at 115200 baud.
+
+## License
+
+Copyright (c) 2026 William Athing. Released under the [MIT License](LICENSE): use,
+modify, and redistribute freely, including commercially, as long as the copyright
+notice is kept.
+
+`pico_sdk_import.cmake` is copied from the Raspberry Pi Pico SDK and stays under
+that SDK's BSD-3-Clause license.
+
+**Third-party components in the compiled firmware.** The `.uf2` links against the
+Pico SDK (BSD-3-Clause), TinyUSB (MIT), BTstack, and the CYW43 wireless driver.
+BTstack and the CYW43 driver are not MIT: Raspberry Pi licenses them for use on
+Raspberry Pi RP-series microcontrollers, which includes the Pico 2 W this firmware
+targets. Check their license files in the Pico SDK before reusing them on other
+hardware.

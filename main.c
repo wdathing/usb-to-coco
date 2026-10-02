@@ -1,3 +1,6 @@
+// Copyright (c) 2026 William Athing
+// SPDX-License-Identifier: MIT
+
 #include "bsp/board_api.h"
 #include "pico/cyw43_arch.h"
 #include "tusb.h"

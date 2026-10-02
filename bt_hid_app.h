@@ -1,3 +1,6 @@
+// Copyright (c) 2026 William Athing
+// SPDX-License-Identifier: MIT
+
 #pragma once
 
 // Brings up BTstack, the CYW43439 HCI transport, and both the classic

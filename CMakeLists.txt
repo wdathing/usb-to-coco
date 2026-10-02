@@ -1,3 +1,6 @@
+# Copyright (c) 2026 William Athing
+# SPDX-License-Identifier: MIT
+
 # Generated Cmake Pico project file
 
 cmake_minimum_required(VERSION 3.13)
